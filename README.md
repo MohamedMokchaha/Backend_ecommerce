@@ -16,3 +16,6 @@ python manage.py migrate
 
 # Lancer le serveur de développement
 python manage.py runserver 8000
+
+# Faire un unitaire
+python manage.py test
